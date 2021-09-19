@@ -9,3 +9,5 @@ We used an image of 2 people to train the model. This project can be explained i
 4) Face Recognition
 5) Attendance Recordiing
 6) Door Automation
+
+You can watch the video of this project here https://youtu.be/WBxxYY6r-jo
